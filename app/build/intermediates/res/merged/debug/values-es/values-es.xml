@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="Options">
+        <item>Reestablecer Puntajes</item>
+        <item>Ver Change Log</item>
+        <item>Calificar Anime Challenge</item>
+        <item>Danos un Me Gusta en Facebook!</item>
+        <item>Envie un correo a los desarrolladores</item>
+        <item>Mostrar Creditos</item>
+        <item>Audio</item>
+        <item>Vibracion</item>
+        <item>Log in/out from Google</item>
+    </string-array>
+    <string name="a">a</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="app_name">Anime Challenge</string>
+    <string name="b">b</string>
+    <string name="bronzestars">Estrellas de Bronce:</string>
+    <string name="by">por</string>
+    <string name="changelog">1.0.0 - First Release March 4, 2013. 	    1.1.1 - March 11. Fixed some bugs, database was corrected, added a new level, added facebook and rate us buttons.</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">mas</string>
+    <string name="changelog_title">Novedades</string>
+    <string name="charcompleted">¡Completado!</string>
+    <string name="close">Cerrar</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesita uno o varios servicios de Google Play que no están disponibles en este momento. Ponte en contacto con el desarrollador para obtener ayuda."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Habilitar los Servicios de Google Play"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites los Servicios de Google Play."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Habilita los Servicios de Google Play"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Descargar los Servicios de Google Play"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu teléfono."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu tablet."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Descargar los Servicios de Google Play"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Cuenta no válida"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Se necesita una conexión de datos para establecer conexión con los Servicios de Google Play."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Error de red"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Error de los Servicios de Google Play"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"No se admite el acceso a las cuentas desde un perfil restringido."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Perfil restringido"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Error al iniciar sesión en la cuenta especificada. Selecciona otra cuenta."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Error al iniciar sesión"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los servicios de Google Play. Si el problema persiste, ponte en contacto con el desarrollador para obtener ayuda."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> se basa en los Servicios de Google Play, pero no es compatible con tu dispositivo. Ponte en contacto con el fabricante para obtener asistencia."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que no actualices los Servicios de Google Play."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Actualiza los Servicios de Google Play"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de los Servicios de Google Play."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Actualizando Servicios de Google Play"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de los Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="developer"><b>Desarrollador</b></string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="disclaimermessage">Los nombres e ilustraciones mostrados en esta aplicacion son marcas registradas de sus respectivos dueños.</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="exit">¿Esta seguro que desea salir?</string>
+    <string name="from">de</string>
+    <string name="games">Gamer</string>
+    <string name="gamescore">Power Level: </string>
+    <string name="gdesigner"><b>Diseñador Gráfico</b></string>
+    <string name="goldenstars">Estrellas de Oro:</string>
+    <string name="gotanime">Acertaste el anime!</string>
+    <string name="gotfullname">¡Bien hecho! Acertaste el nombre completo</string>
+    <string name="gotname">Acertaste el nombre, parcialmente</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="hint">Pista</string>
+    <string name="hintsused">Pistas Usadas: </string>
+    <string name="level">Nivel 1</string>
+    <string name="level10">Nivel 10</string>
+    <string name="level11">Nivel 11</string>
+    <string name="level12">Nivel 12</string>
+    <string name="level13">Nivel 13</string>
+    <string name="level14">Nivel 14</string>
+    <string name="level15">Nivel 15</string>
+    <string name="level16">Nivel 16</string>
+    <string name="level17">Nivel 17</string>
+    <string name="level18">Nivel 18</string>
+    <string name="level19">Nivel 19</string>
+    <string name="level2">Nivel 2</string>
+    <string name="level20">Nivel 20</string>
+    <string name="level21">Nivel 21</string>
+    <string name="level22">Nivel 22</string>
+    <string name="level23">Nivel 23</string>
+    <string name="level24">Nivel 24</string>
+    <string name="level25">Nivel 25</string>
+    <string name="level26">Nivel 26</string>
+    <string name="level27">Nivel 27</string>
+    <string name="level28">Nivel 28</string>
+    <string name="level29">Nivel 29</string>
+    <string name="level3">Nivel 3</string>
+    <string name="level30">Nivel 30</string>
+    <string name="level4">Nivel 4</string>
+    <string name="level5">Nivel 5</string>
+    <string name="level6">Nivel 6</string>
+    <string name="level7">Nivel 7</string>
+    <string name="level8">Nivel 8</string>
+    <string name="level9">Nivel 9</string>
+    <string name="levelgames">Nivel Gamer</string>
+    <string name="levelgames2">Nivel Gamer 2</string>
+    <string name="levelmovies">Nivel Peliculas</string>
+    <string name="levelpets">Nivel Pets</string>
+    <string name="logingoogle">Acceder a Google</string>
+    <string name="logingooglesure">Ingresar a los Servicios de Google?</string>
+    <string name="logoutgoogle">Salir de Google</string>
+    <string name="logoutgooglesure">¿Realmente desea salir de los Servicios de Google?</string>
+    <string name="lvlscore">Nivel</string>
+    <string name="menu_settings">Opciones</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Enviar contenido"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Buscando dispositivos…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Conectar a dispositivo"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Desconectar"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"No hay información disponible"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Pausa"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Reproducir"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Ajustes de ruta"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Dejar de enviar contenido"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="options">  Opciones  </string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Borrar búsqueda"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Buscar"</string>
+    <string name="qall">¿Nombre o Anime?</string>
+    <string name="qanime">¿Anime?</string>
+    <string name="qfname">¿Sabes el nombre completo?</string>
+    <string name="qname">¿Nombre?</string>
+    <string name="quit">  Salir  </string>
+    <string name="ranking">  Stats  </string>
+    <string name="rateuserror">No se pudo abrir Google Play</string>
+    <string name="resetmessage">¿Estas seguro de reestablecer los puntajes?</string>
+    <string name="silverstars">Estrellas de Plata:</string>
+    <string name="specialthanks"><b>Agradecimientos</b></string>
+    <string name="start">  Empezar  </string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="tab1">Estrellas</string>
+    <string name="tab2">Stats Niveles</string>
+    <string name="tab3">Others</string>
+    <string name="test">Test String</string>
+    <string name="title_activity_character">Personaje</string>
+    <string name="title_activity_edit_preferences">EditPreferences</string>
+    <string name="title_activity_level">Nivel</string>
+    <string name="title_activity_level_selection">Selecion de Nivel</string>
+    <string name="title_activity_main">Challenge Anime</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_stats">Stats</string>
+    <string name="totalscore">Total</string>
+    <string name="tounlock"> Pts para Desbloquear</string>
+    <string name="unlockedtoast10">Nivel 10 Desbloqueado</string>
+    <string name="unlockedtoast11">Nivel 11 Desbloqueado</string>
+    <string name="unlockedtoast12">Nivel 12 Desbloqueado</string>
+    <string name="unlockedtoast13">Nivel 13 Desbloqueado</string>
+    <string name="unlockedtoast14">Nivel 14 Desbloqueado</string>
+    <string name="unlockedtoast15">Nivel 15 Desbloqueado</string>
+    <string name="unlockedtoast16">Nivel 16 Desbloqueado</string>
+    <string name="unlockedtoast17">Nivel 17 Desbloqueado</string>
+    <string name="unlockedtoast18">Nivel 18 Desbloqueado</string>
+    <string name="unlockedtoast19">Nivel 19 Desbloqueado</string>
+    <string name="unlockedtoast20">Nivel 20 Desbloqueado</string>
+    <string name="unlockedtoast21">Nivel 21 Desbloqueado</string>
+    <string name="unlockedtoast22">Nivel 22 Desbloqueado</string>
+    <string name="unlockedtoast23">Nivel 23 Desbloqueado</string>
+    <string name="unlockedtoast3">Nivel 3 Desbloquado</string>
+    <string name="unlockedtoast4">Nivel 4 Desbloqueado</string>
+    <string name="unlockedtoast5">Nivel 5 Desbloqueado</string>
+    <string name="unlockedtoast6">Nivel 6 Desbloqueado</string>
+    <string name="unlockedtoast7">Nivel 7 Desbloqueado</string>
+    <string name="unlockedtoast8">Nivel 8 Desbloqueado</string>
+    <string name="unlockedtoast9">Nivel 9 Desbloqueado</string>
+    <string name="unlockedtoastgamesspecial">Nivel Gamer Desbloqueado</string>
+    <string name="unlockedtoastgamesspecial2">2ndo Nivel Gamer Desbloqueado</string>
+    <string name="unlockedtoastmovies">Nivel de Peliculas Desbloqueado</string>
+    <string name="unlockedtoastpets">Nivel de Pets Desbloqueado</string>
+    <string name="viboff">Vibracion Desactivada</string>
+    <string name="vibon">Vibracion Activada</string>
+    <string name="vibration">Vibración</string>
+    <string name="voloff">Audio Desactivado</string>
+    <string name="volon">Audio Activado</string>
+    <string name="volume">Volumen</string>
+    <string msgid="4184147110658930238" name="wallet_buy_button_place_holder">"Comprar con Google"</string>
+    <string name="wrong">No acertaste</string>
+    <string name="yes">Si</string>
+    <string name="zero">0</string>
+</resources>

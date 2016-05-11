@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/raw/changelog.txt",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/raw/changelog.txt"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    }
+]
