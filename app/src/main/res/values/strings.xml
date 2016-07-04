@@ -88,6 +88,7 @@
     <string name="logoutgoogle">Log out from Google</string>
     <string name="logingooglesure">Log into Google?</string>
     <string name="logoutgooglesure">Do you really want to log out of Google Services?</string>
+    <string name="unlockedtoast">Unlocked level</string>
     <string name="unlockedtoast3">Unlocked level 3</string>
     <string name="unlockedtoast4">Unlocked level 4</string>
     <string name="unlockedtoast5">Unlocked level 5</string>

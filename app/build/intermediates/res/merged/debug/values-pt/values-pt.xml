@@ -168,6 +168,7 @@
     <string name="title_activity_stats">Stats</string>
     <string name="totalscore">Total</string>
     <string name="tounlock">Pts para Desbloquear</string>
+    <string name="unlockedtoast">Desbloqueado Nível </string>
     <string name="unlockedtoast10">Nível 10 Desbloqueado</string>
     <string name="unlockedtoast11">Nível 11 Desbloqueado</string>
     <string name="unlockedtoast12">Nível 12 Desbloqueado</string>

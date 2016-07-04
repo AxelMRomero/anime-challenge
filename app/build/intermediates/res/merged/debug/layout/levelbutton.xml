@@ -31,8 +31,8 @@
             android:src="@drawable/starempty"
             android:layout_toRightOf="@+id/lvlsellvlpbar"
             android:paddingRight="20dp"
-            android:maxHeight="25dp"
-            android:maxWidth="25dp"
+            android:maxHeight="20dp"
+            android:maxWidth="200dp"
             android:layout_centerVertical="true"
             />
             

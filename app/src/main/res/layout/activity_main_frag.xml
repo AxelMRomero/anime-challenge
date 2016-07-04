@@ -11,6 +11,14 @@
         android:layout_height="fill_parent"
         android:layout_above="@+id/adView"
         tools:layout="@layout/frag_main_menu" />
+
+	<FrameLayout
+		android:id="@+id/gps_popup"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="20dp" />
     
    	<com.google.android.gms.ads.AdView 
         				 android:id="@+id/adView"

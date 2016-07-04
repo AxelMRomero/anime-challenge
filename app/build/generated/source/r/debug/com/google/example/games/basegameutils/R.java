@@ -259,9 +259,9 @@ public final class R {
 		public static final int abc_searchview_description_voice = 0x7f07000d;
 		public static final int abc_shareactionprovider_share_with = 0x7f07000e;
 		public static final int abc_shareactionprovider_share_with_application = 0x7f07000f;
-		public static final int app_misconfigured = 0x7f0700c4;
-		public static final int auth_google_play_services_client_facebook_display_name = 0x7f0700c5;
-		public static final int auth_google_play_services_client_google_display_name = 0x7f0700c6;
+		public static final int app_misconfigured = 0x7f0700c5;
+		public static final int auth_google_play_services_client_facebook_display_name = 0x7f0700c6;
+		public static final int auth_google_play_services_client_google_display_name = 0x7f0700c7;
 		public static final int common_google_play_services_api_unavailable_text = 0x7f070011;
 		public static final int common_google_play_services_enable_button = 0x7f070012;
 		public static final int common_google_play_services_enable_text = 0x7f070013;
@@ -288,13 +288,13 @@ public final class R {
 		public static final int common_open_on_phone = 0x7f07002b;
 		public static final int common_signin_button_text = 0x7f07002c;
 		public static final int common_signin_button_text_long = 0x7f07002d;
-		public static final int gamehelper_app_misconfigured = 0x7f0700d6;
-		public static final int gamehelper_license_failed = 0x7f0700d7;
-		public static final int gamehelper_sign_in_failed = 0x7f0700d8;
-		public static final int gamehelper_unknown_error = 0x7f0700d9;
-		public static final int license_failed = 0x7f0700df;
-		public static final int sign_in_failed = 0x7f0700f8;
-		public static final int unknown_error = 0x7f070103;
+		public static final int gamehelper_app_misconfigured = 0x7f0700d7;
+		public static final int gamehelper_license_failed = 0x7f0700d8;
+		public static final int gamehelper_sign_in_failed = 0x7f0700d9;
+		public static final int gamehelper_unknown_error = 0x7f0700da;
+		public static final int license_failed = 0x7f0700e0;
+		public static final int sign_in_failed = 0x7f0700f9;
+		public static final int unknown_error = 0x7f070104;
 	}
 	public static final class style {
 		public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 0x7f0a00bd;

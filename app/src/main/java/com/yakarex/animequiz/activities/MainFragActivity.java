@@ -583,6 +583,8 @@ public class MainFragActivity extends FragmentActivity implements
 
 		isSignedIn= true;
 
+		Games.setViewForPopups(mGoogleApiClient, findViewById(R.id.gps_popup));
+
 		//TODO manage plays count offline too
 		manageAchievements(FinalStringsUtils.INCREMENT, FinalStringsUtils.PLAYACHIEV, 1);
 	}

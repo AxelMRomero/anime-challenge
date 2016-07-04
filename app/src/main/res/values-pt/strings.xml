@@ -145,5 +145,6 @@
     <string name="volon">Som Ativado</string>
     <string name="volume">Volume</string>
     <string name="tounlock">Pts para Desbloquear</string>
+    <string name="unlockedtoast">Desbloqueado Nível </string>
 
 </resources>

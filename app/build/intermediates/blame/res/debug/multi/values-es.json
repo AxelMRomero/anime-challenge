@@ -2992,8 +2992,27 @@
                     "startLine": 169,
                     "startColumn": 4,
                     "startOffset": 13864,
+                    "endColumn": 64,
+                    "endOffset": 13924
+                },
+                "from": {
+                    "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 7912,
+                        "endColumn": 64,
+                        "endOffset": 7972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 13929,
                     "endColumn": 65,
-                    "endOffset": 13925
+                    "endOffset": 13990
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3008,11 +3027,11 @@
             },
             {
                 "to": {
-                    "startLine": 170,
+                    "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 13930,
+                    "startOffset": 13995,
                     "endColumn": 65,
-                    "endOffset": 13991
+                    "endOffset": 14056
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3027,11 +3046,11 @@
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 13996,
+                    "startOffset": 14061,
                     "endColumn": 65,
-                    "endOffset": 14057
+                    "endOffset": 14122
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3046,11 +3065,11 @@
             },
             {
                 "to": {
-                    "startLine": 172,
+                    "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 14062,
+                    "startOffset": 14127,
                     "endColumn": 65,
-                    "endOffset": 14123
+                    "endOffset": 14188
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3065,11 +3084,11 @@
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 14128,
+                    "startOffset": 14193,
                     "endColumn": 65,
-                    "endOffset": 14189
+                    "endOffset": 14254
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3084,11 +3103,11 @@
             },
             {
                 "to": {
-                    "startLine": 174,
+                    "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 14194,
+                    "startOffset": 14259,
                     "endColumn": 65,
-                    "endOffset": 14255
+                    "endOffset": 14320
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3103,11 +3122,11 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 14260,
+                    "startOffset": 14325,
                     "endColumn": 65,
-                    "endOffset": 14321
+                    "endOffset": 14386
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3122,11 +3141,11 @@
             },
             {
                 "to": {
-                    "startLine": 176,
+                    "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 14326,
+                    "startOffset": 14391,
                     "endColumn": 65,
-                    "endOffset": 14387
+                    "endOffset": 14452
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3141,11 +3160,11 @@
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 14392,
+                    "startOffset": 14457,
                     "endColumn": 65,
-                    "endOffset": 14453
+                    "endOffset": 14518
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3160,11 +3179,11 @@
             },
             {
                 "to": {
-                    "startLine": 178,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 14458,
+                    "startOffset": 14523,
                     "endColumn": 65,
-                    "endOffset": 14519
+                    "endOffset": 14584
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3179,11 +3198,11 @@
             },
             {
                 "to": {
-                    "startLine": 179,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 14524,
+                    "startOffset": 14589,
                     "endColumn": 65,
-                    "endOffset": 14585
+                    "endOffset": 14650
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3198,11 +3217,11 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 14590,
+                    "startOffset": 14655,
                     "endColumn": 65,
-                    "endOffset": 14651
+                    "endOffset": 14716
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3217,11 +3236,11 @@
             },
             {
                 "to": {
-                    "startLine": 181,
+                    "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 14656,
+                    "startOffset": 14721,
                     "endColumn": 65,
-                    "endOffset": 14717
+                    "endOffset": 14782
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3236,11 +3255,11 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 14722,
+                    "startOffset": 14787,
                     "endColumn": 65,
-                    "endOffset": 14783
+                    "endOffset": 14848
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3255,11 +3274,11 @@
             },
             {
                 "to": {
-                    "startLine": 183,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 14788,
+                    "startOffset": 14853,
                     "endColumn": 62,
-                    "endOffset": 14846
+                    "endOffset": 14911
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3274,11 +3293,11 @@
             },
             {
                 "to": {
-                    "startLine": 184,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 14851,
+                    "startOffset": 14916,
                     "endColumn": 63,
-                    "endOffset": 14910
+                    "endOffset": 14975
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3293,11 +3312,11 @@
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 14915,
+                    "startOffset": 14980,
                     "endColumn": 63,
-                    "endOffset": 14974
+                    "endOffset": 15039
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3312,11 +3331,11 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 14979,
+                    "startOffset": 15044,
                     "endColumn": 63,
-                    "endOffset": 15038
+                    "endOffset": 15103
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3331,11 +3350,11 @@
             },
             {
                 "to": {
-                    "startLine": 187,
+                    "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 15043,
+                    "startOffset": 15108,
                     "endColumn": 63,
-                    "endOffset": 15102
+                    "endOffset": 15167
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3350,11 +3369,11 @@
             },
             {
                 "to": {
-                    "startLine": 188,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 15107,
+                    "startOffset": 15172,
                     "endColumn": 63,
-                    "endOffset": 15166
+                    "endOffset": 15231
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3369,11 +3388,11 @@
             },
             {
                 "to": {
-                    "startLine": 189,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 15171,
+                    "startOffset": 15236,
                     "endColumn": 63,
-                    "endOffset": 15230
+                    "endOffset": 15295
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3388,11 +3407,11 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 15235,
+                    "startOffset": 15300,
                     "endColumn": 78,
-                    "endOffset": 15309
+                    "endOffset": 15374
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3407,11 +3426,11 @@
             },
             {
                 "to": {
-                    "startLine": 191,
+                    "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 15314,
+                    "startOffset": 15379,
                     "endColumn": 84,
-                    "endOffset": 15394
+                    "endOffset": 15459
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3426,11 +3445,11 @@
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 15399,
+                    "startOffset": 15464,
                     "endColumn": 79,
-                    "endOffset": 15474
+                    "endOffset": 15539
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3445,11 +3464,11 @@
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 15479,
+                    "startOffset": 15544,
                     "endColumn": 72,
-                    "endOffset": 15547
+                    "endOffset": 15612
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3464,11 +3483,11 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 15552,
+                    "startOffset": 15617,
                     "endColumn": 56,
-                    "endOffset": 15604
+                    "endOffset": 15669
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3483,11 +3502,11 @@
             },
             {
                 "to": {
-                    "startLine": 195,
+                    "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 15609,
+                    "startOffset": 15674,
                     "endColumn": 52,
-                    "endOffset": 15657
+                    "endOffset": 15722
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3502,11 +3521,11 @@
             },
             {
                 "to": {
-                    "startLine": 196,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 15662,
+                    "startOffset": 15727,
                     "endColumn": 47,
-                    "endOffset": 15705
+                    "endOffset": 15770
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3521,11 +3540,11 @@
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 15710,
+                    "startOffset": 15775,
                     "endColumn": 52,
-                    "endOffset": 15758
+                    "endOffset": 15823
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3540,11 +3559,11 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 15763,
+                    "startOffset": 15828,
                     "endColumn": 48,
-                    "endOffset": 15807
+                    "endOffset": 15872
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3559,11 +3578,11 @@
             },
             {
                 "to": {
-                    "startLine": 199,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 15812,
+                    "startOffset": 15877,
                     "endColumn": 42,
-                    "endOffset": 15850
+                    "endOffset": 15915
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3578,11 +3597,11 @@
             },
             {
                 "to": {
-                    "startLine": 200,
+                    "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 15855,
+                    "startOffset": 15920,
                     "endColumn": 107,
-                    "endOffset": 15958
+                    "endOffset": 16023
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/res/values-es/wallet_strings.xml",
@@ -3597,11 +3616,11 @@
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15963,
+                    "startOffset": 16028,
                     "endColumn": 46,
-                    "endOffset": 16005
+                    "endOffset": 16070
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3616,11 +3635,11 @@
             },
             {
                 "to": {
-                    "startLine": 202,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 16010,
+                    "startOffset": 16075,
                     "endColumn": 34,
-                    "endOffset": 16040
+                    "endOffset": 16105
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",
@@ -3635,11 +3654,11 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 16045,
+                    "startOffset": 16110,
                     "endColumn": 34,
-                    "endOffset": 16075
+                    "endOffset": 16140
                 },
                 "from": {
                     "file": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/values-es/strings.xml",

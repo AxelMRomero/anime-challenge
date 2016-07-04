@@ -343,7 +343,6 @@
     <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_disconnect">Disconnect</string>
     <string name="challenge" translatable="false">  Challenge  </string>
-    <string name="changelog">1.0.0 - First Release March 4, 2013. 	    1.1.1 - March 11. Fixed some bugs, database was corrected, added a new level, added facebook and rate us buttons.</string>
     <string name="changelog_full_title" translatable="false">Change Log</string>
     <string name="changelog_ok_button">OK</string>
     <string name="changelog_show_full">more</string>
@@ -532,6 +531,7 @@
     <string name="totalscore">Game</string>
     <string name="tounlock"> Pts to Unlock</string>
     <string name="unknown_error">Unknown error.</string>
+    <string name="unlockedtoast">Unlocked level</string>
     <string name="unlockedtoast10">Unlocked level 10</string>
     <string name="unlockedtoast11">Unlocked level 11</string>
     <string name="unlockedtoast12">Unlocked level 12</string>

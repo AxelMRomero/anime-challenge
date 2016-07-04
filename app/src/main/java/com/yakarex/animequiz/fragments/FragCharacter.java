@@ -37,6 +37,7 @@ public class FragCharacter extends Fragment {
 	Cursor cursor;
 	int position;
 	int charid;
+
 	int level;
 	String genre;
 	String anime;
@@ -539,181 +540,227 @@ public class FragCharacter extends Fragment {
 		int totalScoreInt = Integer.parseInt(((MainFragActivity)getActivity()).getTotalScore());
 		Context context = ((MainFragActivity)getActivity()).getApplicationContext();
 		Toast lvlunlocked = Toast.makeText(context, "", Toast.LENGTH_SHORT);
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[3]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[3]) {
-			lvlunlocked.setText(R.string.unlockedtoast3);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
+
+		for(int x= 3;x<FinalStringsUtils.lvlunlockinglogicarray.length ;x++){
+			if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[x]
+					&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[x]) {
+				String unlockText;
+				//Gamer Level
+				if(x == 8){
+					unlockText= getResources().getString(R.string.unlockedtoast) +" "+getResources().getString(R.string.levelgames);
+				}
+				//Pets level
+				else if(x == 18){
+					unlockText= getResources().getString(R.string.unlockedtoast) +" "+ getResources().getString(R.string.levelpets);
+				}
+				//Gamer Level 2
+				else if(x == 21){
+					unlockText= getResources().getString(R.string.unlockedtoast) +" "+ getResources().getString(R.string.levelgames2);
+				}
+				//Movies Level
+				else if(x == 24){
+					unlockText= getResources().getString(R.string.unlockedtoast) +" "+ getResources().getString(R.string.levelmovies);
+				}
+				else{
+					if(x>24){
+						unlockText= getResources().getString(R.string.unlockedtoast) +" "+ String.valueOf(x-4);
+					}
+					else if(x>21){
+						unlockText= getResources().getString(R.string.unlockedtoast) +" "+ String.valueOf(x-3);
+					}
+					else if(x>18){
+						unlockText= getResources().getString(R.string.unlockedtoast) +" "+ String.valueOf(x-2);
+					}
+					else if(x>8){
+						unlockText= getResources().getString(R.string.unlockedtoast) +" "+ String.valueOf(x-1);
+					}
+					else{
+						unlockText= getResources().getString(R.string.unlockedtoast) +" "+ String.valueOf(x);
+					}
+				}
+
+				lvlunlocked.setText(unlockText);
+				lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+				((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+				lvlunlocked.show();
+			}
 		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[4]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[4]) {
-			lvlunlocked.setText(R.string.unlockedtoast4);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[5]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[5]) {
-			lvlunlocked.setText(R.string.unlockedtoast5);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[6]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[6]) {
-			lvlunlocked.setText(R.string.unlockedtoast6);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[7]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[7]) {
-			lvlunlocked.setText(R.string.unlockedtoast7);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[8]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[8]) {
-			lvlunlocked.setText(R.string.unlockedtoastgamesspecial);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[9]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[9]) {
-			lvlunlocked.setText(R.string.unlockedtoast8);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[10]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[10]) {
-			lvlunlocked.setText(R.string.unlockedtoast9);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[11]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[11]) {
-			lvlunlocked.setText(R.string.unlockedtoast10);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[12]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[12]) {
-			lvlunlocked.setText(R.string.unlockedtoast11);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[13]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[13]) {
-			lvlunlocked.setText(R.string.unlockedtoast12);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[14]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[14]) {
-			lvlunlocked.setText(R.string.unlockedtoast13);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[15]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[15]) {
-			lvlunlocked.setText(R.string.unlockedtoast14);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[16]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[16]) {
-			lvlunlocked.setText(R.string.unlockedtoast15);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[17]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[17]) {
-			lvlunlocked.setText(R.string.unlockedtoast16);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[18]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[18]) {
-			lvlunlocked.setText(R.string.unlockedtoastpets);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[19]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[19]) {
-			lvlunlocked.setText(R.string.unlockedtoast17);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[20]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[20]) {
-			lvlunlocked.setText(R.string.unlockedtoast18);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[21]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[21]) {
-			lvlunlocked.setText(R.string.unlockedtoastgamesspecial2);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[22]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[22]) {
-			lvlunlocked.setText(R.string.unlockedtoast19);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[23]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[23]) {
-			lvlunlocked.setText(R.string.unlockedtoast20);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[24]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[24]) {
-			lvlunlocked.setText(R.string.unlockedtoastmovies);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[25]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[25]) {
-			lvlunlocked.setText(R.string.unlockedtoast21);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[26]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[26]) {
-			lvlunlocked.setText(R.string.unlockedtoast22);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
-		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[27]
-				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[27]) {
-			lvlunlocked.setText(R.string.unlockedtoast23);
-			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
-			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
-			lvlunlocked.show();
-		}
+//
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[3]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[3]) {
+//			lvlunlocked.setText(R.string.unlockedtoast3);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[4]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[4]) {
+//			lvlunlocked.setText(R.string.unlockedtoast4);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[5]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[5]) {
+//			lvlunlocked.setText(R.string.unlockedtoast5);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[6]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[6]) {
+//			lvlunlocked.setText(R.string.unlockedtoast6);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[7]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[7]) {
+//			lvlunlocked.setText(R.string.unlockedtoast7);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[8]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[8]) {
+//			lvlunlocked.setText(R.string.unlockedtoastgamesspecial);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[9]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[9]) {
+//			lvlunlocked.setText(R.string.unlockedtoast8);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[10]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[10]) {
+//			lvlunlocked.setText(R.string.unlockedtoast9);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[11]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[11]) {
+//			lvlunlocked.setText(R.string.unlockedtoast10);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[12]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[12]) {
+//			lvlunlocked.setText(R.string.unlockedtoast11);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[13]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[13]) {
+//			lvlunlocked.setText(R.string.unlockedtoast12);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[14]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[14]) {
+//			lvlunlocked.setText(R.string.unlockedtoast13);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[15]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[15]) {
+//			lvlunlocked.setText(R.string.unlockedtoast14);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[16]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[16]) {
+//			lvlunlocked.setText(R.string.unlockedtoast15);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[17]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[17]) {
+//			lvlunlocked.setText(R.string.unlockedtoast16);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[18]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[18]) {
+//			lvlunlocked.setText(R.string.unlockedtoastpets);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[19]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[19]) {
+//			lvlunlocked.setText(R.string.unlockedtoast17);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[20]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[20]) {
+//			lvlunlocked.setText(R.string.unlockedtoast18);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[21]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[21]) {
+//			lvlunlocked.setText(R.string.unlockedtoastgamesspecial2);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[22]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[22]) {
+//			lvlunlocked.setText(R.string.unlockedtoast19);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[23]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[23]) {
+//			lvlunlocked.setText(R.string.unlockedtoast20);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[24]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[24]) {
+//			lvlunlocked.setText(R.string.unlockedtoastmovies);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[25]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[25]) {
+//			lvlunlocked.setText(R.string.unlockedtoast21);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[26]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[26]) {
+//			lvlunlocked.setText(R.string.unlockedtoast22);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
+//		if (totalScoreInt < FinalStringsUtils.lvlunlockinglogicarray[27]
+//				&& totalScoreInt + scoreToAdd >= FinalStringsUtils.lvlunlockinglogicarray[27]) {
+//			lvlunlocked.setText(R.string.unlockedtoast23);
+//			lvlunlocked.setGravity(Gravity.TOP, 0, 0);
+//			((MainFragActivity)getActivity()).hapticsManager(FinalStringsUtils.UNLOCKED);
+//			lvlunlocked.show();
+//		}
 
 		if(totalScoreInt >= 9000){
 			((MainFragActivity)getActivity()).manageAchievements(FinalStringsUtils.UNLOCK, 0, 0);
@@ -747,6 +794,8 @@ public class FragCharacter extends Fragment {
 	private int comparator(String ctext, String dbfield) {
 		String text = ctext;
 		String[] inputArray = text.split(" ");
+
+		dbfield= dbfield.toLowerCase().trim();
 
 		if (dbfield.contains("@")) {
 			String[][] bidircomparativearray = stringSplitter(dbfield);
