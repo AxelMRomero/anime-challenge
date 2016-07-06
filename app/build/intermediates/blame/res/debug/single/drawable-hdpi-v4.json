@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_media_pause.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_pause.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_cast_on_2_light.png",
@@ -28,12 +28,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
@@ -80,12 +80,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-hdpi/places_ic_clear.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_setting_dark.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_setting_dark.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_setting_dark.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_setting_dark.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
@@ -104,24 +104,24 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_play_light.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_play_light.png"
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_play_light.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_play_light.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
@@ -132,32 +132,32 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png"
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.jpg",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable-hdpi/background.jpg"
     },
     {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_setting_light.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_setting_light.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-hdpi/ic_plusone_medium_off_client.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-hdpi/ic_plusone_medium_off_client.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
@@ -232,12 +232,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
@@ -252,24 +252,24 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_media_route_on_2_mono_dark.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_on_2_mono_dark.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png"
-    },
-    {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_media_route_on_0_mono_dark.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_on_0_mono_dark.png"
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_media_route_on_0_mono_dark.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_on_0_mono_dark.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
@@ -284,32 +284,32 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/powered_by_google_dark.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-hdpi/powered_by_google_dark.png"
     },
     {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_play_dark.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_play_dark.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_play_dark.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_play_dark.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
@@ -336,12 +336,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
@@ -384,20 +384,20 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_light.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/powered_by_google_light.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-hdpi/powered_by_google_light.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/charbackground.jpg",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable-hdpi/charbackground.jpg"
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_media_route_off_mono_dark.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/charbackground.jpg",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable-hdpi/charbackground.jpg"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_plusone_small_off_client.png",
@@ -408,12 +408,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_2.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
@@ -428,12 +428,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
@@ -444,12 +444,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lvlbackground.jpg",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable-hdpi/lvlbackground.jpg"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lvlbackground.jpg",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable-hdpi/lvlbackground.jpg"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/maintitle.png",

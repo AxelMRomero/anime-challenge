@@ -916,12 +916,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/toriko.jpg"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/nobita.jpg",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/nobita.jpg"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/oz_vessalius.jpg",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/oz_vessalius.jpg"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/nobita.jpg",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/nobita.jpg"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/gendo_ikari.jpg",
@@ -1224,12 +1224,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/koiso_kenji.jpg"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/kuroyukihime.jpg",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/kuroyukihime.jpg"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/crono.jpg",
@@ -2768,12 +2768,12 @@
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/yukimura_sanada.jpg"
     },
     {
-        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/rin_natsume.jpg",
-        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/rin_natsume.jpg"
-    },
-    {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/mugen.jpg",
         "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/mugen.jpg"
+    },
+    {
+        "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/rin_natsume.jpg",
+        "source": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/src/main/res/drawable/rin_natsume.jpg"
     },
     {
         "merged": "/home/aromero/Desktop/Anime Challenge AndStudio/AnimeChallenge/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
